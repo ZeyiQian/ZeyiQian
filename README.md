@@ -6,7 +6,7 @@
 - 💞️ [CV_ZQ.pdf](https://github.com/ZeyiQian/ZeyiQian/files/7465110/CV_ZQ.pdf) , [CV_ZQ(Chinese).pdf](https://github.com/ZeyiQian/ZeyiQian/files/7465096/CV_ZQ.Chinese.pdf)
 
  
-![](https://github-readme-stats.vercel.app/api?username=mayandev)
+![](https://github-readme-stats.vercel.app/api?username=mayandev&theme=dark)
 
 
 <!---
