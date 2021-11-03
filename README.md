@@ -4,9 +4,10 @@
 - 📫 My Email address is zeqian@clarku.edu.
 - ✨ Welcome to connect with me on [Linkin](https://www.linkedin.com/in/zeyi-qian-b04288208).
 - 💞️ [CV_Zeyi Qian.pdf](https://github.com/ZeyiQian/ZeyiQian/files/7465022/CV_Zeyi.Qian.pdf) ,  [CV_Zeyi Qian (Chinese).pdf](https://github.com/ZeyiQian/ZeyiQian/files/7465023/CV_Zeyi.Qian.Chinese.pdf)
-
+<p align="center">
+ 
 ![](https://github-readme-stats.vercel.app/api?username=mayandev)
-
+</p>
 
 
 <!---
