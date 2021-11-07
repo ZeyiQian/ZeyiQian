@@ -3,7 +3,7 @@
 - 🌱 Interested in Urban and Spatial Economics, International Economics and China's Economy.
 - 📫 My Email address is zeqian@clarku.edu.
 - ✨ Welcome to connect with me on [Linkin](https://www.linkedin.com/in/zeyi-qian-b04288208).
-- 💞️ [CV_ZQ.pdf](https://github.com/ZeyiQian/ZeyiQian/files/7491451/CV_ZQ.pdf) ,  [CV_ZQ(Chinese).pdf](https://github.com/ZeyiQian/ZeyiQian/files/7491452/CV_ZQ.Chinese.pdf)
+- 💞️ [CV_ZQ.pdf](https://github.com/ZeyiQian/ZeyiQian/files/7491473/CV_ZQ.pdf),  [CV_ZQ(Chinese).pdf](https://github.com/ZeyiQian/ZeyiQian/files/7491452/CV_ZQ.Chinese.pdf)
 
      ![](https://github-readme-stats.vercel.app/api?username=mayandev&theme=dark)
 
