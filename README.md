@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zeyi Qian.
-- 👀 A First-Year Ph.D. Student in Economics at Clark University.
+- 👀 A First-Year Ph.D. Student in Economics at Clark University under the supervision of Prof. Junfu Zhang.
 - 🌱 Interested in Urban and Spatial Economics, International Economics and China's Economy.
 - 📫 My Email address is zeqian@clarku.edu.
 - ✨ Welcome to connect with me on [Linkin](https://www.linkedin.com/in/zeyi-qian-b04288208).
