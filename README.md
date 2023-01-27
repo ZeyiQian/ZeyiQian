@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zeyi Qian. I am a PhD candidate in Economics at Clark University.
 - 🌱 Interested in Urban Economics, International Trade and History.
-- ✨ Welcome to connect with me on [Linkin](https://www.linkedin.com/in/zeyi-qian-b04288208).
+- ✨ [Linkin](https://www.linkedin.com/in/zeyi-qian-b04288208).
 - 💞️ Email: ZeQian@clarku.edu
 
      ![](https://github-readme-stats.vercel.app/api?username=ZeyiQian&theme=dark)
