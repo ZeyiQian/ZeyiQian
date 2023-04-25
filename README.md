@@ -1,4 +1,4 @@
-- 👋 Hi | नमस्ते | Olá | Salut | 你好 
+- 👋 Hi | Olá | Salut | Hola | Ciao | こんにちは | 안녕하세요 | Здравствуйте | مرحبا | नमस्ते | آداب | 你好 
 - 🔭 This is Zeyi Qian, a PhD candidate in Economics at Clark University
 - 🌱 Interested in Urban Economics and International Trade
 - ✨ [Linkin](https://www.linkedin.com/in/zeyi-qian-b04288208)
