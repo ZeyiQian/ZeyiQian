@@ -1,5 +1,5 @@
 - 👋 Hi | Olá | Salut | Hola | Ciao | こんにちは | 안녕하세요 | Здравствуйте | مرحبا | नमस्ते | آداب | 你好 ✨✨✨ 
-- 🔭Feel free to reach out: zeqian@clarku.edu
+- 🔭 Feel free to reach out: zeqian@clarku.edu
 
     
 
