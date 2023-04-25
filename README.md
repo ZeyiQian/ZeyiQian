@@ -1,6 +1,6 @@
-- 👋 Hi | नमस्ते | Olá | Salut | 你好 !
-- 🔭 This is Zeyi Qian, a PhD candidate in Economics at Clark University.
-- 🌱 Interested in Urban Economics, International Trade and Development Economics.
+- 👋 Hi | नमस्ते | Olá | Salut | 你好 
+- 🔭 This is Zeyi Qian, a PhD candidate in Economics at Clark University
+- 🌱 Interested in Urban Economics and International Trade
 - ✨ [Linkin](https://www.linkedin.com/in/zeyi-qian-b04288208)
 - 💞️ Email: ZeQian@clarku.edu
 
