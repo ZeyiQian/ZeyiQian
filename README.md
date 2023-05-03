@@ -2,7 +2,9 @@
 - 🔭 Feel free to reach out: zeqian@clarku.edu
 
     
-
+<br />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sudnyeshtalekar&show_icons=true&theme=dark" alt="sudnyeshtalekar" /> 
+</p>
 
 <!---\
  - 🔭 This is Zeyi Qian, a PhD candidate in Economics at Clark University
