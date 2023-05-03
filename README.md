@@ -3,6 +3,9 @@
 - 🔭 Feel free to reach out: zeqian@clarku.edu
 
    <br /> 
+   
+   ![微信截图_20230503183715](https://user-images.githubusercontent.com/91390400/236065887-dc187614-3044-4593-a5cf-0f35e9f46ca9.png)
+
 <br />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sudnyeshtalekar&show_icons=true&theme=dark" alt="sudnyeshtalekar" /> 
 </p>
