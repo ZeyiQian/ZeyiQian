@@ -1,7 +1,8 @@
- <h1 align="center">Hi | Olá | Salut | Hola | Ciao | こんにちは | 안녕하세요 | Здравствуйте | مرحبا | नमस्ते | آداب | 你好 ✨✨✨ </h1> 
+ <h1 align="center">Hi | Olá | Salut | Hola | Ciao | こんにちは | 안녕하세요 | Здравствуйте | مرحبا | नमस्ते | آداب | 你好 ✨✨✨ </h1>
+ <br />
 - 🔭 Feel free to reach out: zeqian@clarku.edu
 
-    
+   <br /> 
 <br />
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sudnyeshtalekar&show_icons=true&theme=dark" alt="sudnyeshtalekar" /> 
 </p>
