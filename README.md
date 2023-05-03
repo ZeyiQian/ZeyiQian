@@ -3,8 +3,7 @@
 - 🔭 Feel free to reach out: zeqian@clarku.edu
 
    <br /> 
-   <br />
-![ff](https://user-images.githubusercontent.com/91390400/236066215-10bff6b5-2182-45a8-ab04-93e223ab38fc.png)
+![ff](https://user-images.githubusercontent.com/91390400/236066257-7ea543d8-1a9b-4522-9f71-5565998b4af9.png)
 
 
 <br />
