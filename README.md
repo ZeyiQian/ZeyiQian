@@ -2,9 +2,6 @@
  <br />
 - 🔭 Feel free to reach out: zeqian@clarku.edu
    <br /> 
-   <br />   <br />
-      <br />
-         <br />
 ![ff](https://user-images.githubusercontent.com/91390400/236066333-de0ca9a6-d035-4a98-893e-88145449da69.png)
 
 
